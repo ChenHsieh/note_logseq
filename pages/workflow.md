@@ -9,4 +9,9 @@ title: workflow
 ## all scripts should have a reusable version
 ## thoughts should be in blog
 ## constant input
-###
+### biz
+### sci
+## writing should be useful
+### publishable
+### community finding
+##
