@@ -7,3 +7,5 @@ title: workflow
 ## structural organisation on Notion
 ## all code should be on github and documented
 ## all scripts should have a reusable version
+## thoughts should be in blog
+##
