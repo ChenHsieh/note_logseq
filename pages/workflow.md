@@ -8,4 +8,5 @@ title: workflow
 ## all code should be on github and documented
 ## all scripts should have a reusable version
 ## thoughts should be in blog
-##
+## constant input
+###
